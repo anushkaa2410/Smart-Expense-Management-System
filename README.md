@@ -1,7 +1,7 @@
 # Smart-Expense-Management-System
 Smart Monthly Expense Decision System – A C++ finance management application that uses Greedy Algorithms, Dynamic Programming, Backtracking, Divide &amp; Conquer, Merge Sort, and Binary Search to analyze expenses, optimize savings, and provide intelligent financial recommendations.
 
-## 📌 Project Overview
+## Project Overview
 
 The **Smart Monthly Expense Decision System** is a C++ based financial management application developed as part of the **Design and Analysis of Algorithms (DAA) Lab Project**.
 
